@@ -1,0 +1,7 @@
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\bin\Debug\Elementary_Task_4.exe.config
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\bin\Debug\Elementary_Task_4.exe
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\bin\Debug\Elementary_Task_4.pdb
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\obj\Debug\Elementary_Task_4.csprojAssemblyReference.cache
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\obj\Debug\Elementary_Task_4.csproj.CoreCompileInputs.cache
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\obj\Debug\Elementary_Task_4.exe
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_4\Elementary_Task_4\obj\Debug\Elementary_Task_4.pdb
