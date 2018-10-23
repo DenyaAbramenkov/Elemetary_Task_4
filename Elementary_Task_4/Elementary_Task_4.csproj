@@ -42,12 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CountOfEntries.cs" />
-    <Compile Include="FileParser.cs" />
-    <Compile Include="PatternReplace.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Classes\CountOfEntries.cs" />
+    <Compile Include="Classes\FileParser.cs" />
+    <Compile Include="Classes\PatternReplace.cs" />
+    <Compile Include="Classes\ElementaryTaskParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UI_Console.cs" />
+    <Compile Include="UI\UI_Console.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

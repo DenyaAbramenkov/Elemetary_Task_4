@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.IO;
 
+
 namespace Elementary_Task_4
 {
     class PatternReplace:FileParser
@@ -24,9 +25,8 @@ namespace Elementary_Task_4
                 {
                     while (!streamToRead.EndOfStream)
                     {
-                        StringBuilder line = new StringBuilder(streamToRead.ReadLine());
-                        line = line.Replace(Pattern, StringToReplace);
-                        streamToWrite.WriteLine(line);
+                        Regex rgx = new Regex($@"{Pattern}");
+                        streamToWrite.WriteLine(rgx.Replace(streamToRead.ReadToEnd(), StringToReplace));
                     }
                     streamToWrite.Close();
                     streamToRead.Close();

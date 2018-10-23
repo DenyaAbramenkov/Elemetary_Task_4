@@ -17,7 +17,6 @@ namespace Elementary_Task_4
             FilePath = filepath;
             Pattern = pattern;
         }
-        public abstract void FileParse();
-        
+        public abstract void FileParse();       
     }
 }

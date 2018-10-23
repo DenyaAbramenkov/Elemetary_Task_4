@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elementary_Task_4", "Elementary_Task_4\Elementary_Task_4.csproj", "{47C3D3EF-9063-4C8A-BD02-C3E8A0C235AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileParserUnitTests", "FileParserUnitTests\FileParserUnitTests.csproj", "{B45946A7-E675-4CB3-9CF8-F9C8BB2A1F85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{47C3D3EF-9063-4C8A-BD02-C3E8A0C235AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C3D3EF-9063-4C8A-BD02-C3E8A0C235AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C3D3EF-9063-4C8A-BD02-C3E8A0C235AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45946A7-E675-4CB3-9CF8-F9C8BB2A1F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45946A7-E675-4CB3-9CF8-F9C8BB2A1F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45946A7-E675-4CB3-9CF8-F9C8BB2A1F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45946A7-E675-4CB3-9CF8-F9C8BB2A1F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA61D804-2791-42D8-9711-D713EA041F7D}
 	EndGlobalSection
 EndGlobal

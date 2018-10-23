@@ -24,7 +24,7 @@ namespace Elementary_Task_4
                     while (!streamToRead.EndOfStream)
                     {
                         string line = (streamToRead.ReadLine());
-                        Count = +new Regex(Pattern).Matches(line).Count;
+                        Count += new Regex($@"{Pattern}").Matches(line).Count;
                     }
                 }
             }

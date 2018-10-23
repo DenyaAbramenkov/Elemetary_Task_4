@@ -44,7 +44,6 @@ namespace Elementary_Task_4
                             Console.WriteLine("Incorect input");
                             Console.ReadKey();
                         }
-
                         break;
                     }
                 default:
@@ -60,9 +59,6 @@ namespace Elementary_Task_4
             Console.WriteLine("Input path to file for parse" + Environment.NewLine +
                "If you want to get count of pattern entries input patternt" + Environment.NewLine +
                "If you want to change pattern then input string to raplece");
-
-
-
         }
     }
 }

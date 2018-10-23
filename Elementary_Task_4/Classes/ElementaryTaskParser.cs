@@ -7,11 +7,11 @@ using System.IO;
 
 namespace Elementary_Task_4
 {
-    class Program
+    class ElementaryTaskParser
     {
         static void Main(string[] args)
         {
-            UI_Console.BuildUI();
+            UI_Console.BuildUI();    
         }
     }
 }
